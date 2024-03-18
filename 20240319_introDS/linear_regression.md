@@ -5,5 +5,5 @@ Regression analysis searches for relationships between variables. For example yo
 We can use regression to ask what feature are related. We can also use regression to predict the response.   
 
 ## Problem formation
-To implement linear regression we have dependent variable **y** on set of independent variables **x = (x<sub>1</sub>,...,x<sub>r</sub>)** where **r** is number of predictors. The linear relationship between y and x is **y=&beta<sub>0</sub> + &beta<sub>1</sub>x<sub>1</sub>+...+&beta<sub>1</sub>x<sub>r</sub>r+&epsilon where &beta<sub>0</sub>, &beta<sub>1</sub>, ..., &beta<sub>r</sub> are the regression coefficients and &epsilon is the random error.
+To implement linear regression we have dependent variable * *y* * on set of independent variables * *x = (x<sub>1</sub>,...,x<sub>r</sub>)* * where * *r* * is number of predictors. The linear relationship between y and x is * *y=&beta;<sub>0</sub> + &beta;<sub>1</sub>x<sub>1</sub>+...+&beta;<sub>1</sub>x<sub>r</sub>r+&epsilon; where &beta;<sub>0</sub>, &beta;<sub>1</sub>, ..., &beta;<sub>r</sub> are the regression coefficients and &epsilon; is the random error.
  
