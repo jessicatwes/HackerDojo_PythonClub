@@ -6,8 +6,9 @@ In linear regression problems the input are continous, whereas in logistic regre
 
 
 ## Problem formation
-To implement linear regression we have dependent variable _y_ on set of independent variables _x = (x<sub>1</sub>,...,x<sub>r</sub>)_ where _r_ is number of predictors. The linear relationship between y and x is _y=&beta;<sub>0</sub> + &beta;<sub>1</sub>x<sub>1</sub>+...+&beta;<sub>1</sub>x<sub>r</sub>r+&epsilon;_ where &beta;<sub>0</sub>, &beta;<sub>1</sub>, ..., &beta;<sub>r</sub> are the regression coefficients and &epsilon; is the random error.
+To implement linear regression we have dependent variable _y_ on set of independent variables _x = (x<sub>1</sub>,...,x<sub>r</sub>)_ where _r_ is number of predictors. The linear regression equation is  _y=&beta;<sub>0</sub> + &beta;<sub>1</sub>x<sub>1</sub>+...+&beta;<sub>1</sub>x<sub>r</sub>r+&epsilon;_ where &beta;<sub>0</sub>, &beta;<sub>1</sub>, ..., &beta;<sub>r</sub> are the regression coefficient, &epsilon; is the random error, y is the dependent variable and x<sub>1</sub>, x<sub>2</sub>, ..., x<sub>n</sub> are the independent and explanatory variables.
 
 Linear regression calculates the predicted weights (_b_<sub>0</sub>, _b_<sub>2</sub>, ..., _b_<sub>r</sub>). These weight are estimators of the regression coefficient and define the estimated regression function _f_(x) = _b_<sub>0</sub> + _b_<sub>2</sub>+ ... + _b_<sub>r</sub>. The estimated response is the predicted response _f_(x<sub>i</sub>) for each observation. The differences between the actual response y(<sub>i</sub>) and estimated reponse are call residuals. 
 
-The goal is Linear regression is to determine the best predicted weights which correspond to the smallest residuals. To get the best weight, we want to minimize the sum of squared residuals for all observations _i_. This method is called ordinary least squares and can be written as \sum_{<sub>i</sub>(y<sub>i</sub> - f(x<sub>i</sub>))^i{2}}.
+The goal is Linear regression is to determine the best predicted weights which correspond to the smallest residuals. To get the best weight, we want to minimize the sum of squared residuals for all observations _i_. This method is called Ordinary Least Squares (OLS) and can be written as \sum_{<sub>i</sub>(y<sub>i</sub> - f(x<sub>i</sub>))^{2}}.
+
