@@ -13,6 +13,6 @@ Linear regression calculates the predicted weights (_b_<sub>0</sub>, _b_<sub>2</
 The goal is Linear regression is to determine the best predicted weights which correspond to the smallest residuals. To get the best weight, we want to minimize the sum of squared residuals for all observations _i_. This method is called Ordinary Least Squares (OLS) and can be written as \sum_{<sub>i</sub>(y<sub>i</sub> - f(x<sub>i</sub>))^{2}}.
 
 ## Further reading and videos
-- [Stat quest Linear Reggression](https://youtu.be/nk2CQITm_eo?si=grr5lG8UF1Yd5rfO) - Video tutorial explaining concepts of Linear Regresssion
-- [Linear Methods for Regression](https://hastie.su.domains/Papers/ESLII.pdf) - Chapter 3 of <u>The Elements  of Statistical Learning</u> covers examples of linear method and provide more details on the statistics.
 - [Real Python tutorial](https://realpython.com/linear-regression-in-python/) - Python tutorial on linear regression
+- [Linear Methods for Regression](https://hastie.su.domains/Papers/ESLII.pdf) - Chapter 3 of <u>The Elements  of Statistical Learning</u> covers examples of linear method and provide more details on the statistics.
+- [StatQuest Linear Reggression](https://youtu.be/nk2CQITm_eo?si=grr5lG8UF1Yd5rfO) - Video tutorial explaining concepts of Linear Regresssion

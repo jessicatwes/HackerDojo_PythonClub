@@ -12,4 +12,8 @@ The Logistic Regression has a sigmoid function, giving it a 'S' shaped curve to 
 The classification used in Logistic Regression can fall into the following type
 - Binary Logistic Regression - There are two possible outcomes, eg., spam or not spam
 - Multinomial Logistic Regression - The outcome has three or more nominal categories. An example of this is predicting the color of car the client will purchase.
-- Ordinal Logistic Regression - The outcome has three or more ordinal categoryies. An example of this is rating your favorite colors from 1 to 10. 
+- Ordinal Logistic Regression - The outcome has three or more ordinal categoryies. An example of this is rating your favorite colors from 1 to 10.
+
+## Further reading and videos
+- [Real Python tutorial](https://realpython.com/logistic-regression-python/) - Python tutorial on logistic regression
+- [StatQuest Logistic Reggression](https://youtu.be/yIYKR4sgzI8?si=56UiVGyPW1npq9tD) - Video tutorial explaining concepts of Logistic Regresssion
