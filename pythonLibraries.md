@@ -1,7 +1,7 @@
 # Python Libraries for Data
 
 ## DATA MANIPULATION
-* __NumPy:__ This libary provides support for large, multidimensional arrays and matricies. Example would be performing mathematical operations on large dataset.
+* [__NumPy:__](https://numpy.org/) This libary provides support for large, multidimensional arrays and matricies. Example would be performing mathematical operations on large dataset.
 * __Pandas:__ This library is good for working with data structure for data manipulation and analysis. This library works well with loading in CSV files into a dataframe.
 
 ## DATA VISUALIZATION
