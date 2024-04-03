@@ -11,7 +11,7 @@
 * [__Vega-Altair:__](https://altair-viz.github.io/) A declarative visualization library. Uses an API built on Vega-Lite so that less coding is require for visualization.
 * [__pygal:__](https://www.pygal.org/en/stable/) A library for creating SVG charts for interactive vector graphics.
 
-** MATHEMATICAL APPLICATIONS
+## MATHEMATICAL APPLICATIONS
 * [__SciPy:__](https://scipy.org/) This library provides algorithms for different mathematical application such as eigenvalue, differential equations, statistics
 * [__Statsmodels:__](https://www.statsmodels.org/stable/index.html) This library works with pandas and provides different statistical models to conduct statistical tests and statistical data exploration
 * [__PyMC3:__](https://www.pymc.io/projects/docs/en/stable/learn.html) A Bayesian modeling package for probablistic machine learning application. Example of an application would be to perform a Bayesian inference to estimate the parameters of a linear regression model.
