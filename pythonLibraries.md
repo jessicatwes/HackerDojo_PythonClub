@@ -18,20 +18,20 @@
 * [__Lifelines:__](https://lifelines.readthedocs.io/en/latest/) A survival analysis library. 
 * [__SymPy:__](https://www.sympy.org/en/index.html) A symbolic mathematics library
 
-** MACHINE LEARNING
+## MACHINE LEARNING
 * [__Scikit-learn:__](https://scikit-learn.org/stable/) Library with both supervised and unsupervised learning algorithms
 * [__TensorFlow:__](https://www.tensorflow.org/) Machine learning library able to build and train deep neural network and optimize LLMs.
 * [__PyTorch:__](https://pytorch.org/) Machine learning library to create models, optimize and train model. Provides tensor computation to implement a recurrent neural network (RNN)
 * [__JAX:__](https://jax.readthedocs.io/en/latest/notebooks/quickstart.html) Leverages NumPy on CPU, GPU, and TPU for performing machine learning research
 * [__XGBoost:__](https://xgboost.readthedocs.io/en/stable/python/) A gradient boosting library for training models. This module allos you to load data from different data format including CPU and GPU data structure. 
 
-** NATURAL LANGUAGE PROCESSING (NLP)
+## NATURAL LANGUAGE PROCESSING (NLP)
 * [__NLTK:__](https://www.nltk.org/) Natural Language Toolkit is a platform that works with symbolic and statistical NLP. 
 * [__spaCy:__](https://spacy.io/) NLP processing libary with support for tokenization, parsing, and named entity recognition.
 * [__Gensim:__](https://pypi.org/project/gensim/) Library for topic modelling, document indexing and similarity retrieval
 * [__TextBlob:__](https://textblob.readthedocs.io/en/dev/) Library with a API for processing textual data and perform tasks such as tagging, noun phrase extraction, sentiment analysis,and classification. The library is built on top of NLTK
 
-** DATA OPERATIONS AND DEVELOPER TOOLS
+## DATA OPERATIONS AND DEVELOPER TOOLS
 * [__Modin:__](https://modin.readthedocs.io/en/stable/) Library that works with Pandas to speed up data preprocessing pipeline
 * [__Vaex:__](https://vaex.io/) Library for use with DataFrames to explore tabular datasets and generate data visualization
 * [__Dask:__](https://www.dask.org/) Library to scale existing Python libraries to perform parallel analysis. Useful for scaling machine learning pipeline to process dataset
